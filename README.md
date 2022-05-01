@@ -22,10 +22,10 @@ This means that you have full control over both the trading bot and your finance
 - there is a possibility of modification to your needs
 For more information on bot features, see https://docs.google.com/document/d/1fFVoAhNDQIDfRjaghxspAMul68PzRinoU9GhMjXSD-o/edit?usp=sharing
 
-Our contacts:
-Telegram: @it_sarff
-Web: https://itdim.com.ua/crypto_bot.html
-TG Chanel: https://t.me/AutoCryptoTrade_Binance
+Our contacts: </br>
+Telegram: @it_sarff </br>
+Web: https://itdim.com.ua/crypto_bot.html </br>
+TG Chanel: https://t.me/AutoCryptoTrade_Binance </br>
 
 ![alt text](https://itdim.com.ua/images/itdimbot/dashboard.png)
 ![alt text](https://itdim.com.ua/images/itdimbot/dashboard2.png)
