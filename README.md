@@ -24,11 +24,5 @@ For more information on bot features, see https://docs.google.com/document/d/1fF
 
 Our contacts: </br>
 Telegram: @it_sarff </br>
-Web: https://itdim.com.ua/crypto_bot.html </br>
+Web: [LINK](https://itdim.com.ua/crypto-bot) </br>
 TG Chanel: https://t.me/AutoCryptoTrade_Binance </br>
-
-![alt text](https://itdim.com.ua/images/itdimbot/dashboard.png)
-![alt text](https://itdim.com.ua/images/itdimbot/dashboard2.png)
-![alt text](https://itdim.com.ua/images/itdimbot/ReportBot.png)
-![alt text](https://itdim.com.ua/images/itdimbot/telegram2.png)
-![alt text](https://itdim.com.ua/images/itdimbot/telegram_itdimbinance.png)
