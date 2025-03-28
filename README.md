@@ -1,8 +1,8 @@
 # AutoCryptoTrade
 AutoCryptoTrade Bot for Binance
 
-Продажа торгового бота для SPOT Binance 400$
-Преимущества над остальными торговыми ботами:
+Торговый бот для SPOT Binance
+Преимущества:
 - вы размещаете и устанавливаете его на собственном сервере (мы можем помочь с установкой, но мы не имеем доступа к вашему торговому боту). 
 - открытый исходный код (вы можете проверить код на безопасность у любого Python специалиста)
 - вы используете свой верифицированный аккаунт Binance
@@ -22,7 +22,5 @@ This means that you have full control over both the trading bot and your finance
 - there is a possibility of modification to your needs
 For more information on bot features, see https://docs.google.com/document/d/1fFVoAhNDQIDfRjaghxspAMul68PzRinoU9GhMjXSD-o/edit?usp=sharing
 
-Our contacts: </br>
-Telegram: @it_sarff </br>
 Web: [LINK](https://itdim.com.ua/crypto-bot) </br>
-TG Chanel: https://t.me/AutoCryptoTrade_Binance </br>
+Chanel: https://t.me/AutoCryptoTrade_Binance </br>
